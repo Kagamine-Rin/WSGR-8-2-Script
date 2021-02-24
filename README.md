@@ -4,12 +4,12 @@ This is a script that automatically go to expedition in map 8-2 point B.
 
 Most auto scripts on github directly simulates the game client and makes artificial
 requests to the game server. This script however, like most modern FGO scripts on github,
-is based on ADB, OpenCV and pattern recognization. This reduced the risk of being banned.
+is based on ADB, OpenCV and pattern recognition. This reduced the risk of being banned.
 (However Moefantasy haven't put anyone on banlist since 2018.4)
 
 ## Usage
 
-#### Notice: It's strongly suggested to use a real revice rather than simulator.
+#### Notice: It's strongly suggested to use a real device rather than simulator.
 
 Android simulators may skip some ADB instructions if there is too heavy load for the simulator.
 This will cause the script to fall into incorrect state and stop working.
